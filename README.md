@@ -1,11 +1,9 @@
-## Hi there 👋
+## Gordon Chau - @gochau62
 
-<!--
-**gochau62/gochau62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 
-Here are some ideas to get you started:
+[View my resume](resume.pdf)
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
