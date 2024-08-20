@@ -1,6 +1,6 @@
 ## Gordon Chau - @gochau62
 
-🔭 I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
+I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 
 [View my resume](resume.pdf)
 
