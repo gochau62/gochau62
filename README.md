@@ -2,7 +2,7 @@
 
 I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 
-[View my resume](resume.png)
+[View my resume](resume.pdf)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
