@@ -1,0 +1,212 @@
+ /* default style */
+ html {
+    margin: 0;
+    padding: 0;
+  }
+
+/* basic setup here */
+  body {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    background-color: #f3f3f3;
+    color: #1a1a1a;
+    line-height: 1.8;
+    padding-top: 100px;
+  }
+
+  p { 
+    margin-top: 0; 
+    text-align: justify;
+    }
+
+  .container {
+    width: 67%;
+    margin: 0 auto;
+  }
+/* majority of the design */
+
+  header {
+    background-image: url(../images/banner.jpg);
+    background-repeat: space;
+    background-size: 100%;
+    padding: 0px 0;
+    color: #2f3606;
+    text-align: center;
+    font-size: 0.7em;
+    font-weight: 700;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  nav {
+    display: flex;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    background-color: #f3f3f3;
+    transition: background-color 0.3s ease;
+  }
+  
+  nav a:hover {
+    background-color: #f3f3f3;
+  }
+  
+  .main {
+    background: url(../images/fontbackground.jpg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: justify;
+    word-spacing: -2px;
+    padding: 5px;   
+    font-weight: bold;
+  }
+  
+  .main h1 {
+    font-size: 4.1em;
+    margin-bottom: 8px;
+  }
+  
+  .about {
+    padding: 40px 0;
+  }
+  
+  .about h2 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.3em;
+    color: #1a1a1a;
+  }
+  
+  .product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 80px 0;
+  }
+
+  .picture {
+    flex: 0 0 30%;
+    background-color: #f3f3f3;
+    border: 1px solid #494949;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 5px;
+  }
+  
+  .picture img {
+    max-width: 67%;
+    height: 67%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  figcaption {
+  text-align: center;  
+  }
+  
+  .picture h2 {
+    margin-top: 10px;
+    font-size: 1.6em;
+    text-align: center;
+  }
+
+  .picture h3 {
+    margin-top: 10px;
+    font-size: 1.6em;
+  }
+  
+  .picture p {
+    color: #1a1a1a;
+    font-size: 1.2em;
+  }
+  
+  .contact {
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .contact h2 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+  }
+  
+  .contact form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #f3f3f3;
+    border-radius: 5px;
+  }
+  
+  .contact button {
+    background-color: #494949;
+    color: #f3f3f3;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background-color: #494949;
+  }
+ 
+/* link implementation styles */
+  a:link { 
+	font-weight: bold;
+	color: #4B5320
+	}
+
+  a:visited { 
+	font-weight: bold; 
+	color: #2f3606
+	}
+
+  a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #93a81f
+	}
+
+  abbr {
+	border-bottom: none;
+	}
+
+/* table implementation styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #f3f3f3;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #2f3606;
+  color: #f3f3f3;
+}
