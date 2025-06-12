@@ -7,7 +7,7 @@
 </p>
 
 ---
-### Technical Skills  
+### :shipit: Technical Skills  
 #### **Languages**  
 - `Java`, `Python`, `JavaScript`, `HTML`, `CSS`, `MySQL`, `PHP`, `Matlab`
 #### **Frameworks & Tools**  
@@ -19,6 +19,7 @@
 ### 🌟 Data Analytics rising Senior at the University of New Hampshire
 - 🔧 **Programmer and Network Analyst** at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 - 🌐 **Project Lead Developer** for Visionary.coin
+- 🏀  **March Madness Projections** for 2023 college basketball tournament
 
 ---
 ### Projects  
