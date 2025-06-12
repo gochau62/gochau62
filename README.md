@@ -41,4 +41,4 @@
 
 ---
 
-![resume.png](resume.png)
+![resume.png](pdf/resume.png)
