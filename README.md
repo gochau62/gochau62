@@ -25,14 +25,6 @@
 - **Visionary.coin crypto currency predictor**
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
 
----
-### 📫 How to reach me: ...
-<p align="center">
-  <a href="https://www.linkedin.com/in/gordon-chau-3455542ba/" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/gochau62/" target="_blank">
-  </a>
-</p>
 
 ---
 ### 🌱 I’m currently learning ...
