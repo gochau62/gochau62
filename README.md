@@ -1,10 +1,9 @@
 ## Gordon Chau - @gochau62
 
 I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
+I am Google AI Essentials Certified check out my license from [Coursera](Coursera.pdf)
 
-![resume.png](resume.png)
-
-I am Google AI Essentials Certified check out my license from [Coursera](Coursera.pdf)!
+I did research on ethical usage of [Consumer Data Privacy in Technology](consumer_data_privacy.pdf)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,5 @@ I am Google AI Essentials Certified check out my license from [Coursera](Courser
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![resume.png](resume.png)
