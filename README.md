@@ -3,7 +3,7 @@
 I’m currently a Programmer and Network Analyst at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 
 ![resume.png](resume.png)
-![Coursera](Coursera WBATULNB5LYD.pdf)
+![Coursera](Coursera.pdf)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
