@@ -3,7 +3,7 @@
 <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gochau62@outlookcom"><img src="https://img.shields.io/badge/Email-%230078D7.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/gordon-chau-3455542ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gordon-chau1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
