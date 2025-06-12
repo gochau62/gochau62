@@ -1,4 +1,4 @@
-<h1 align="center">Gordon Chau</h1>
+<h1 align="center">:godmode: Gordon Chau :trollface: :hankey:</h1>
 <h3 align="center">Data Analyst | Web Developer | Programmer and Network Analyst</h3>
 <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
