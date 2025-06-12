@@ -21,12 +21,12 @@
 - 🌐 **Project Lead Developer** for Visionary.coin
 
 ---
-- ### Projects  
+### Projects  
 - **Visionary.coin crypto currency predictor**
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
 
 ---
-- ### 📫 How to reach me: ...
+### 📫 How to reach me: ...
 <p align="center">
   <a href="https://www.linkedin.com/in/gordon-chau-3455542ba/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" height="30" width="30" />
@@ -37,14 +37,14 @@
 </p>
 
 ---
-- ### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gochau62&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" height="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochau62&layout=compact&theme=tokyonight" alt="Top Languages" width="420" height="400"/>
 </p>
 
 ---
-- ### ⚡ Fun fact: ...
+### ⚡ Fun fact: ...
 I am Google AI Essentials Certified check out my license from [Coursera](Coursera.pdf)
 I did research on ethical usage of [Consumer Data Privacy in Technology](consumer_data_privacy.pdf)
 
