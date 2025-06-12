@@ -29,10 +29,8 @@
 ### 📫 How to reach me: ...
 <p align="center">
   <a href="https://www.linkedin.com/in/gordon-chau-3455542ba/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/gochau62/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -45,8 +43,8 @@
 
 ---
 ### ⚡ Fun fact: ...
-I am Google AI Essentials Certified check out my license from [Coursera](Coursera.pdf)
-I did research on ethical usage of [Consumer Data Privacy in Technology](consumer_data_privacy.pdf)
+- I am Google AI Essentials Certified check out my license from [Coursera](Coursera.pdf)
+- I did research on ethical usage of [Consumer Data Privacy in Technology](consumer_data_privacy.pdf)
 
 ---
 
