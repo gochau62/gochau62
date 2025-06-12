@@ -22,13 +22,13 @@
 - 🏀  **March Madness Projections** for 2023 college basketball tournament
 
 ---
-### Projects  
-- **Visionary.coin crypto currency predictor**
+💻 ### Projects  
+- 📒 **Visionary.coin crypto currency predictor**
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
 
 
 ---
-### 🌱 I’m currently learning ...
+### :octocat:  I’m currently learning ...
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gochau62&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" height="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochau62&layout=compact&theme=tokyonight" alt="Top Languages" width="420" height="400"/>
