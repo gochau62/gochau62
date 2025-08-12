@@ -18,13 +18,12 @@
 ---
 ### 🌟 Data Analytics rising Senior at the University of New Hampshire
 - 🔧 **Programmer and Network Analyst** at [Littleton Coin Company](https://www.littletoncoin.com/shop)
-- ! 
 - 🌐 **Project Lead Developer** for Visionary.coin
 - 🏀  **March Madness Projections** for 2022 college basketball tournament
 
 ---
 ### 💻 Projects  
-📒 **Visionary.coin crypto currency predictor**
+**Visionary.coin crypto currency predictor**
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
 
 
@@ -45,4 +44,5 @@
 
 ---
 
+### 📒 Resume
 ![resume.png](png/resume.png)
