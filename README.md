@@ -38,12 +38,15 @@
 ---
 ### ⚡ Fun fact: ...
 #### I am Google AI Essentials Certified check out my license from Coursera
-<img src="png/Coursera.png" alt="Coursera License" width="1020" height="200">
+<p align="center">
+<img src="png/Coursera.png" alt="Coursera License" width="420" height="400">
+</p>
 
 #### I did research on ethical usage of Consumer Data Privacy in Technology
-<img src="png/consumer_data_privacy.png" alt="Consumer Data Privacy in Technology" width="1020" height="200">
+<p align="center">
+<img src="png/consumer_data_privacy.png" alt="Consumer Data Privacy in Technology" width="420" height="400">
+</p>
 
 ---
-
 ### 📒 Resume
 ![resume.png](png/resume.png)
