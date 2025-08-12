@@ -37,7 +37,7 @@
 ---
 ### ⚡ Fun fact: ...
 - I am Google AI Essentials Certified check out my license from ![Coursera](png/Coursera.png)
-- I did research on ethical usage of ![Consumer Data Privacy in Technology](png/consumer_data_privacy.png)
+- I did research on ethical usage of ![Consumer Data Privacy in Technology]
 
 ---
 
