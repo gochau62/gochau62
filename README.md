@@ -37,13 +37,17 @@
 
 ---
 ### ⚡ Fun fact: ...
+<h4 align="center">
+  <stong>I am Google AI Essentials Certified check out my license from Coursera</stong>
+</h4>
 <p align="center">
-#### I am Google AI Essentials Certified check out my license from Coursera****
 <img src="png/Coursera.png" alt="Coursera License" width="420" height="400">
 </p>
 
+<h4 align="center">
+  <stong>I did research on ethical usage of Consumer Data Privacy in Technology</stong>
+</h4>
 <p align="center">
-#### I did research on ethical usage of Consumer Data Privacy in Technology
 <img src="png/consumer_data_privacy.png" alt="Consumer Data Privacy in Technology" width="420" height="400">
 </p>
 
