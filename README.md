@@ -21,6 +21,7 @@
 - 🌐 **Project Lead Developer** for Visionary.coin
 - 🏀  **March Madness Projections** for 2022 college basketball tournament
 <img src="png/littletoncoin.png" alt="Littleton Coin" width="1000" height="600">
+
 ---
 ### 💻 Projects  
 **Visionary.coin crypto currency predictor**
