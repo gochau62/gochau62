@@ -20,7 +20,7 @@
 - 🔧 **Programmer and Network Analyst** at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 - 🌐 **Project Lead Developer** for Visionary.coin
 - 🏀  **March Madness Projections** for 2022 college basketball tournament
-<img src="png/littletoncoin.png" alt="Littleton Coin" width="800" height="400">
+<img src="png/littletoncoin.png" alt="(https://www.littletoncoin.com/shop)" width="800" height="400">
 
 ---
 ### 💻 Projects  
