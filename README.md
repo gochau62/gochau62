@@ -18,6 +18,7 @@
 ---
 ### 🌟 Data Analytics rising Senior at the University of New Hampshire
 - 🔧 **Programmer and Network Analyst** at [Littleton Coin Company](https://www.littletoncoin.com/shop)
+- ! 
 - 🌐 **Project Lead Developer** for Visionary.coin
 - 🏀  **March Madness Projections** for 2022 college basketball tournament
 
@@ -37,9 +38,10 @@
 ---
 ### ⚡ Fun fact: ...
 #### I am Google AI Essentials Certified check out my license from 
-![Coursera](png/Coursera.png)
+<img src="png/Coursera.png" alt="Coursera" width="200">
+
 #### I did research on ethical usage of 
-![Consumer Data Privacy in Technology](png/consumer_data_privacy.png)
+<img src="png/consumer_data_privacy.png" alt="Consumer Data Privacy in Technology" width="200">
 
 ---
 
