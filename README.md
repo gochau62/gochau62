@@ -19,7 +19,6 @@
 ### 🌟 Data Analytics rising Senior at the University of New Hampshire
 - 🔧 **Programmer and Network Analyst** at [Littleton Coin Company](https://www.littletoncoin.com/shop)
 - 🌐 **Project Lead Developer** for [Visionary.coin](https://www.linkedin.com/company/visionary-coin/?viewAsMember=true)
-- 🏀  **March Madness Projections** for [2022 Men's College Basketball Tournament](https://www.sports-reference.com/cbb/postseason/men/2022-ncaa.html)
 
 ---
 ### 💻 Projects  
