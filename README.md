@@ -40,7 +40,7 @@
 
 ---
 ### ⚡ Fun fact: ...
-<h4 align="center">
+<h4>
   <stong>I am Google AI Essentials Certified check out my license from Coursera and I did research on ethical usage of Consumer Data Privacy in Technology </stong>
 </h4>
 <p align="center">
