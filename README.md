@@ -22,9 +22,14 @@
 
 ---
 ### 💻 Projects  
-**Visionary.coin crypto currency predictor**
+**Visionary.coin Crypto currency predictor**
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
-
+- Applied machine learning techniques to support strategic cryptocurrency forecasting.
+  
+** PACE: Pupillometric Analysis of Cognitive Effort**
+- Conducted pupillometric and behavioral analysis integrating Tobii Pro Glasses 3 eye-tracking data with PEBL cognitive tests (N-Back, BCST) to quantify cognitive effort across varying task difficulties.
+- Developed Python-based data pipelines to clean, normalize, and visualize pupil diameter data, implementing baseline correction, validity filtering, and relative dilation calculations to extract meaningful cognitive metrics.
+- Collaborated on the design of a standard operating procedure for consistent data collection and preprocessing, including baseline calibration, participant recording, and test synchronization protocols.
 
 ---
 ### :octocat:  I’m currently learning ...
