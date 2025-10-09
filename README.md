@@ -32,14 +32,14 @@
 - Collaborated on the design of a standard operating procedure for consistent data collection and preprocessing, including baseline calibration, participant recording, and test synchronization protocols.
 
 ---
-### :octocat:  I’m currently learning ...
+### :octocat:  I’m currently learning
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gochau62&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" height="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochau62&layout=compact&theme=tokyonight" alt="Top Languages" width="320" height="400"/>
 </p>
 
 ---
-### ⚡ Fun fact: ...
+### ⚡ Fun fact:
 <h4>
   <stong>I am Google AI Essentials Certified check out my license from Coursera and I did research on ethical usage of Consumer Data Privacy in Technology </stong>
 </h4>
