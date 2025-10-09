@@ -26,7 +26,7 @@
 - Integrated a wide variety of tools and skills, such as Python and Tableau, to build a website that creates predictive models using machine learning and AI-based cryptocurrency databases that can be used to help determine insight into the future movement of cryptocurrency prices.
 - Applied machine learning techniques to support strategic cryptocurrency forecasting.
   
-** PACE: Pupillometric Analysis of Cognitive Effort**
+**PACE: Pupillometric Analysis of Cognitive Effort**
 - Conducted pupillometric and behavioral analysis integrating Tobii Pro Glasses 3 eye-tracking data with PEBL cognitive tests (N-Back, BCST) to quantify cognitive effort across varying task difficulties.
 - Developed Python-based data pipelines to clean, normalize, and visualize pupil diameter data, implementing baseline correction, validity filtering, and relative dilation calculations to extract meaningful cognitive metrics.
 - Collaborated on the design of a standard operating procedure for consistent data collection and preprocessing, including baseline calibration, participant recording, and test synchronization protocols.
@@ -39,9 +39,9 @@
 </p>
 
 ---
-### ⚡ Fun fact:
+### ⚡ Fun fact
 <h4>
-  <stong>I am Google AI Essentials Certified check out my license from Coursera and I did research on ethical usage of Consumer Data Privacy in Technology </stong>
+I am Google AI Essentials Certified check out my license from Coursera and I did research on ethical usage of Consumer Data Privacy in Technology
 </h4>
 <p align="center">
 <img src="png/Coursera.png" alt="Coursera License" width="400" height="300">
