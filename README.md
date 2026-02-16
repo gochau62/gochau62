@@ -33,10 +33,9 @@
 
 ---
 ### :octocat:  I’m currently learning
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gochau62&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochau62&layout=compact&theme=tokyonight" width="300" />
-</div>
+<p align="center">
+  ![GitHub Stats](https://github-stats.sujoshnag.com/stats/classic/gochau62?accent=f43f5e)
+</p>
 
 ---
 ### ⚡ Fun fact
