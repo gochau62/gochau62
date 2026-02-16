@@ -34,7 +34,7 @@
 ---
 ### :octocat:  I’m currently learning
 <p align="center">
-  ![GitHub Stats](https://github-stats.sujoshnag.com/stats/classic/gochau62?accent=f43f5e)
+  [GitHub Stats](https://github-stats.sujoshnag.com/stats/classic/gochau62?accent=f43f5e)
 </p>
 
 ---
