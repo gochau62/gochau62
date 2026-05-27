@@ -48,5 +48,5 @@ I am Google AI Essentials Certified check out my license from Coursera and I did
 </p>
 
 ---
-### 📒 Resume
+### 📒 Resume 
 ![resume.png](png/resume.png)
