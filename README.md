@@ -32,12 +32,6 @@
 - Collaborated on the design of a standard operating procedure for consistent data collection and preprocessing, including baseline calibration, participant recording, and test synchronization protocols.
 
 ---
-### :octocat:  I’m currently learning
-<p align="center">
-  <img src="https://github-stats.sujoshnag.com/stats/classic/gochau62?accent=f43f5e" alt="GitHub Stats" />
-</p>
-
----
 ### ⚡ Fun fact
 <h4>
 I am Google AI Essentials Certified check out my license from Coursera and I did research on ethical usage of Consumer Data Privacy in Technology
